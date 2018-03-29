@@ -1,0 +1,92 @@
+
+a{
+	color: #ffffff;
+}
+#thomeleft li {
+			display: inline; 
+		}
+#thomeleft h1 {
+
+		text-shadow:4px 3px 3px black;
+		color: #ffffff;
+		font-weight: bold;
+		font-size: 32px;
+		text-transform: uppercase;
+		padding:9px;
+}
+#thomeleft fieldset{
+
+			padding-right: 80px;
+				border: none;
+}
+#thomeleft ul{ 
+		color:#ffffff;
+	background-color: #4B4B4B;
+		box-shadow: 2px 2px 2px black;
+		position:absolute;
+		padding: 0px;
+		top: 55px;
+		left: 15px;
+		
+}
+
+/*.........teachertab..............................................................................................................*/
+ul.teachertab {
+	position: absolute;
+	left: -25px;
+	top: 240px;
+    list-style-type: none;
+    margin: 0;
+    
+   
+}
+
+ul.teachertab li a {
+	 background-color: #4B4B4B;
+    display: inline-block;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px black;
+    padding: 14px 0px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+    padding-right: 39px;
+    padding-left: 53px;
+    box-shadow: 2px 2px 2px black;
+    width: 80px;
+							
+}
+
+ul.teachertab li a:hover {background-color: #ddd;
+							 }
+ul.teachertab li a:focus, .active {background-color: #ccc;
+							}
+
+.tabcontent {
+	 box-shadow: 2px 2px 2px black;
+	height: 411px;
+	width: 760px;
+	background-color: #ccc;
+	position: absolute;
+	top: 65px;
+	left: 186px;
+    display: none;
+    padding: 16px 32px;
+}
+
+#thomeright ul{
+			padding: 30px;
+			padding-right: 200px;
+			display: inline;
+			box-shadow: 2px 3px 2px black;
+			top:50px;
+			left: 1015px; 
+			color: #ffffff;
+			position: absolute;
+
+		}
+#thomeright li{
+			display: inline;		
+}
+
+

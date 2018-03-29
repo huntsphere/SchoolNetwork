@@ -1,0 +1,125 @@
+
+body {
+		height: auto;
+		width:100%;
+		min-width: 100%;
+	    height:auto;
+	    background:#black;
+   		 font-weight: bold;
+ 	 }
+
+#headername h1{
+ 		
+ 		text-shadow:4px 3px 3px black;
+  		font-family:  sans-serif;
+ 	 	color:#ffffff;
+ 	 	font-weight: bold;
+ 	 	letter-spacing: 1px;
+ 		 padding :10px;
+	}
+	#headername b{
+ 		box-shadow: 4px 3px 2px black;
+ 		text-shadow:4px 13px 3px black;
+  		font-family:  sans-serif;
+ 	 	color:#ffffff;
+ 	 	font-weight: bold;
+ 	 	letter-spacing: 1px;
+ 		 padding :10px;
+	}
+
+#menu li {
+			display: inline; 
+		}
+#menu a {
+		background-color: #4B4B4B;
+		text-shadow:4px 3px 3px black;
+		color: #ffffff;
+		font-weight: bold;
+		font-size: 17px;
+		text-transform: uppercase;
+		padding:15px;
+}
+#menu a:hover{
+		background:#696969;
+		width: 200px;
+	   	height: 40px;
+		color: #00f0ff;
+		text-decoration: solid;
+}
+#menu ul{
+		position:absolute;
+		top:1.6%;
+		left:88%
+}
+#homename img{
+				position: absolute;
+				top:-50px;
+				left:190px;	
+	}
+#homename h3{
+		text-shadow:4px 3px 3px black;
+		height: auto;
+		text-align: center;
+		color: #ffffff;
+		font-weight: bold;
+		font-size: 20px;
+		text-transform: uppercase;
+	}
+#homename h2{
+
+	    text-shadow:4px 3px 3px black;
+		height: auto;
+		text-align: center;
+		color: #ffffff;
+		font-weight: bold;
+		font-size: 40px;
+		text-transform: uppercase;
+	}
+#homename hr{
+			box-shadow: 3px 3px 3px black;
+	}
+#homename li{
+				
+				display: inline; 	
+}
+#homename ul{
+				position:absolute;
+				top:33%;
+				left:13.3%;
+}
+#homename fieldset{
+					text-shadow:4px 3px 3px black;
+					font-weight: bold;
+					font-size: 20px;
+					border:0;
+					padding:0px;	
+}
+
+#homebutton li{
+				display: inline; 
+				padding:8px;	
+}
+#homebutton ul{
+				position:absolute;
+				top:100%;
+				left:23%;
+				padding:6px;
+}
+#homebutton fieldset{
+					text-shadow:4px 3px 3px black;
+					font-weight: bold;
+					font-size: 20px;
+					border:solid;
+					border-color:#ffffff;
+					display: inline; 
+					padding:8px;	
+}
+#homebutton a{
+			color:#ffffff;
+			padding:11px;
+}
+#homebutton a:hover{
+					background:#00f0ff;
+					color: #ffffff;
+					text-decoration: solid;
+}

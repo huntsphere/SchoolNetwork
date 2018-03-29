@@ -1,0 +1,99 @@
+
+#adminhomeleft li {
+
+			display: inline; 
+		}
+#adminhomeleft h1 {
+
+		text-shadow:4px 3px 3px black;
+		color: #ffffff;
+		font-weight: bold;
+		font-size: 22px;
+		text-transform: uppercase;
+		padding:9px;
+}
+#adminhomeleft ul{ 
+		position:absolute;
+		padding: 1px;
+		top: 110px;
+		left: 70px;
+		
+}
+
+
+#adminhomemiddle ul{ 
+
+			padding: 130px;
+			padding-right: 500px;
+			display: inline;
+			box-shadow: 2px 3px 2px black;
+			border:solid;
+			top:51px;
+			left: 205px; 
+			color: #ffffff;
+			position: absolute;
+
+		}
+#adminhomemiddle li{
+			display: inline;		
+}
+
+
+ul.teachertab {
+	position: absolute;
+	top: 70px;
+	left: 190px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+
+ul.teachertab li {float: left;}
+
+ul.teachertab li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+ul.teachertab li a:hover {background-color: #ddd;}
+
+ul.teachertab li a:focus, .active {background-color: #ccc;}
+
+.tabcontent {
+	position: absolute;
+	top: 119px;
+	left: 190px;
+    display: none;
+    padding: 16px 32px;
+    border: 1px solid #ccc;
+}
+
+
+
+
+#adminhomeright ul{
+			padding: 30px;
+			padding-right: 200px;
+			display: inline;
+			box-shadow: 2px 3px 2px black;
+			border:solid;
+			top:50px;
+			left: 1015px; 
+			color: #ffffff;
+			position: absolute;
+
+		}
+#adminhomeright li{
+			display: inline;		
+}
+
+

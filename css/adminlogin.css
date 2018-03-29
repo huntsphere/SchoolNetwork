@@ -1,0 +1,32 @@
+body{
+	background-color: transparent;
+	background: transparent;
+}
+#login ul{ 
+			
+			padding: 130px;
+			padding-right: 500px;
+			display: inline;
+			box-shadow: 2px 3px 2px black;
+			border:solid;
+			top:51px;
+			left: 205px; 
+			color: #ffffff;
+			position: absolute;
+
+		}
+#login b{
+		background-color:transparent;
+		box-shadow: 0px 0px 0px black;
+}
+#login button{
+		background-color:skyblue;
+		box-shadow: 2px 3px 2px black;
+		padding-right: 20px;
+	    padding: 10px;
+	    
+}
+
+#login li{
+			display: inline;		
+}

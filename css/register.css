@@ -1,0 +1,33 @@
+body{
+	background-color: #4B4B4B;
+	background: transparent;
+}
+#login table{ 
+	background-color: #4B4B4B;
+			text-shadow: 1px 2px 2px black;
+			padding: 50px;
+			padding-right: 300px;
+			display: inline;
+			box-shadow: 2px 3px 2px black;
+			top:12%;
+			left: 22%; 
+			color: #ffffff;
+			position: absolute;
+
+		}
+#login b,input{
+		box-shadow: 0px 0px 0px black;
+
+}
+#login a,i{
+		color: #ffffff;
+		background-color:skyblue;
+		box-shadow: 2px 3px 2px black;
+		padding-right: 20px;
+	    padding: 10px;
+	    
+}
+
+#login li{
+			display: inline;		
+}
